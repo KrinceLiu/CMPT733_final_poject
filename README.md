@@ -13,5 +13,5 @@ Sentiment_Analysis_v1.ipynb
 ## Visualization
 Covid-19_visualization.ipynb  
 Sentiment_Analysis_Visualization.ipynb  
-preprocess_visualization_covid19_us.ipynb   
-preprocess_visualization_covid19_us_2.ipynb 
+primitive_visualization_covid19data/preprocess_visualization_covid19_us.ipynb   
+primitive_visualization_covid19data/preprocess_visualization_covid19_us_2.ipynb 
