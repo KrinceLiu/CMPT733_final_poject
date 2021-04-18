@@ -15,3 +15,7 @@ Covid-19_visualization.ipynb
 Sentiment_Analysis_Visualization.ipynb  
 primitive_visualization_covid19data/preprocess_visualization_covid19_us.ipynb   
 primitive_visualization_covid19data/preprocess_visualization_covid19_us_2.ipynb 
+
+## How to run and reproduce the data
+Due to the twitter policy restriciton, we are unable to upload twitter data we used.
+Please contact hda42@sfu.ca to get cleaned twitter data.
