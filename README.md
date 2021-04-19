@@ -28,3 +28,9 @@ Please read the next section for getting the data.
 ## How to run and reproduce the data
 Due to the Twitter policy restriciton, we are unable to upload Twitter data we used.
 Please contact hda42@sfu.ca to get cleaned Twitter data.
+
+## Additional Notes
+Due to some unknown config errors, Wen Han Tang was not seen as a contributor for this repo, but he actually pushed the following materials:
+1. twitter_gettingdata.ipynb
+2. 'Prediction_Models_Evaluation' directory
+3. One file in the 'primitive_visualization_covid19data' directory
