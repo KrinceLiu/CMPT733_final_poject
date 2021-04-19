@@ -1,0 +1,1 @@
+This folder will contain the collected small amount of tweets of the pretended target hashtags which are described in section 5.2 of the report
