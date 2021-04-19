@@ -14,4 +14,5 @@ First, use the 'testing_tweets_extractor' file to extract small amount of tweets
 
 2. Use the 'Prediction_Consistency_Evaluation_V2' file to calculate the consistency in percentage and make the visualization for version 2
 
+## Notes
 All the files have testing notes inside
